@@ -1,0 +1,6 @@
+arcade
+tensorflow
+pandas
+numpy
+matplotlib.pyplot
+sklearn
