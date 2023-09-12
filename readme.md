@@ -21,7 +21,7 @@ I've done some step to achieve end goal.
   b. snake must be careful not to hit to right, left,top and down walls in the game.
   c. snake must be careful not to hit to part of its body.
 
-  I also add a few lines of code to store some informations in a ```.csv``` file. 
+  I also add a few lines of code to store some informations in a `.csv` file. 
   These informations include below features that I use them in my MLP algorithm in next step to train my model:
     
  |    Name of feature         |       description of feature     |
