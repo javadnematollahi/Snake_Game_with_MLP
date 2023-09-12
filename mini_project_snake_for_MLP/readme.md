@@ -63,23 +63,8 @@ I've done some step to achieve end goal.
 
     I try different combination of top features for training model to define best features for training to get maximum accuracy and reduce the amount of calculations. As a result I removed below features from top features:
 
-    ```"last_up", "last_down", "last_right",  "last_left"```
+    "last_up", "last_down", "last_right",  "last_left"
 
-   The specifications of my model are:
-
-   * Model has three hidden layer and one input and one output layer
-   * Neuron number of input layer: 16
-   * Neuron number of first hidden layer: 80
-   * Neuron number of second hidden layer: 64
-   * Neuron number of third hidden layer: 48
-   * Neuron number of output layer: 4
-   * activation function of fisrt three layers:   ```relu```
-   * activation function of third hidden layer:   ```sigmoid```
-   * activation function of output layer:   ```softmax```
-   * optimizer:     ```AdamW```
-   * learning rate: 0.0001
-   * loss function:   ```mean_squared_error```
-   * epochs number:      2000
 
   My MLP model can achieve 98% accuracy for train data and 97% accuracy for test data. Finally I save my trained model and named it ```MLP_FOR_Snake.h5```.
  
