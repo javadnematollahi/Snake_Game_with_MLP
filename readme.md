@@ -2,7 +2,7 @@
 
 In this mini project I use MultiLayer Perceptron to train my snake in Snake game. 
 
-History of snake game :
+History of snake game:
 
 Snake first appeared on a Nokia device in 1997 on the Nokia 6110. It was adapted for Nokia devices by Taneli Armanto, a Design Engineer, User Interface Software.
 
