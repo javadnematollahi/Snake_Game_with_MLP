@@ -2,5 +2,5 @@ arcade
 tensorflow
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 sklearn
